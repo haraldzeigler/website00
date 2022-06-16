@@ -1,0 +1,15 @@
+h1 {
+    color: grey;
+    text-align: left;
+  }
+
+h2 {
+color: red;
+text-align: center;
+}
+
+h3 {
+color: blue;
+text-align: right;
+}
+
