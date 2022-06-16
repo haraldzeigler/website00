@@ -10,5 +10,30 @@ THe website contains various uses of the following tags:
     </head>
     <h1></h1>
     <p>
+        
+  <li>Element 1 med li tag</li>
 
-And it links to a css stylesheet
+  <table>
+    <tr>
+      <th>Navn</th>
+      <th>Jobber</th>
+      <th>Adresser</th>
+    </tr>
+    <tr>
+      <td>Navn 1</td>
+      <td>Jobb 1</td>
+      <td>Adresse 1</td>
+    </tr>
+    <tr>
+      <td>Navn 2</td>
+      <td>Jobb 2</td>
+      <td>Adresse 2</td>
+    </tr>
+    <u>Element 1</u>
+    <u>Element 2</u>
+  </table>
+And it links to a css stylesheet that shows basic formatting
+h1 {
+    color: grey;
+    text-align: left;
+}
